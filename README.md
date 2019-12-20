@@ -32,7 +32,7 @@ python main.py -start rainbow.jpg 5
 ```
 
 ##### Input
-![Image](https://github.com/boyfromasia/reduce_color_script/raw/master/images/rainbow.png)
+![Image](https://github.com/boyfromasia/reduce_color_script/raw/master/images/rainbow.jpg)
 
 ##### Output
 * Recolored image
@@ -41,7 +41,7 @@ python main.py -start rainbow.jpg 5
 
 * Visualize the results by plotting the data colored by these labels. 
 
-![Image](https://github.com/boyfromasia/reduce_color_script/raw/master/images/plot.png)
+![Image](https://github.com/boyfromasia/reduce_color_script/raw/master/output/plot.png)
 
 
 ## Authors
